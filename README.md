@@ -1,1 +1,3 @@
-# -gitc2027mar-genome
+# gitc2027mar-genome
+
+2027/3/4(木) - 2027/3/5(金) GITC 2027 春 ゲノム解析入門
